@@ -1,0 +1,6 @@
+
+#content {
+	background: rgb(250, 250, 242);
+	display: grid;
+	grid-template-rows: auto 80px;
+}
